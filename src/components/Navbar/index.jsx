@@ -1,5 +1,6 @@
 import * as React from "react";
 import TravelfyLogo from "../../assets/images/travelfy-logo-small.png";
+import MusafirLogo from "../../assets/images/musafir.png";
 import { Link } from "react-router-dom";
 import { styled, useTheme } from "@mui/material/styles";
 import { logoutWS } from "../../services/authWs";
@@ -178,7 +179,7 @@ export default function MiniDrawer({ user, ...props }) {
             >
               <div className="travelfy-logo">
                 <Link to="/">
-                  <img src={TravelfyLogo} alt="travelfy-logo" />
+                <img src={MusafirLogo} alt="musafir" style={{ width: "150px",height:"55px" }}/>
                 </Link>
               </div>
             </Typography>
