@@ -3,13 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/davidcastillog/travelfy-client">
-    <img src="https://github.com/davidcastillog/travelfy-client/blob/master/src/assets/images/travelfy-logo-blue.jpg" alt="travelfy Logo" width="250" height="75" alt="Travelfy">
-  </a>
+
   <h3 align="center">Travel planner</h3>
      MERN stack app
     <br />
-   <a href="https://travelfy.netlify.app/">View Demo</a>
+   
 </div>
 
 <!-- TABLE OF CONTENTS -->
